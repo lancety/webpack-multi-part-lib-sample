@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "jsx": "react",
+    "target": "es6",
+    "module": "commonjs",
+    "removeComments": true,
+    "sourceMap": true,
+    "outDir": "./output",
+    "allowJs": false,
+    "esModuleInterop": true
+  },
+  "types": [
+    "node"
+ ],
+  "exclude": [
+    "node_modules"
+  ]
+}
